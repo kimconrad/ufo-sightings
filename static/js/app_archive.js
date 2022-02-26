@@ -101,6 +101,20 @@ function handleClick() {
   
   // Attach an event to listen for the form button
   d3.selectAll("#filter-btn").on("click", handleClick);
-  
+  detects change
   // Build the table when the page loads
   buildTable(tableData);
+
+  if _change was made___ 
+  update_filters()
+
+
+3.  updateFilters()
+  variabled3select
+
+4a  d3.select(this)
+  variable 
+
+4b d3.select(this) save value of car
+   
+ 4c. d3.select(this) 
