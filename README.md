@@ -25,6 +25,7 @@ Create basic webpage that allows the user to search a file of UFO Sighting data 
 
 This page may be used to search for sightings based on certain criteria such as date, location, or shape of object. 
 
+<image_1.png>
 
 # Project Summary
 
