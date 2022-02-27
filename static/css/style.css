@@ -1,9 +1,6 @@
 body {
-
     color: #f7f7f7;
   }
-
-<body class="bg-dark">
 
 <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
 
@@ -16,7 +13,6 @@ body {
     background-size: 100% 100%;
     text-align: center;
   }
-
 
 <form>
   <p>Filter Search</p>
@@ -31,5 +27,5 @@ body {
        </button>
     </li>
   </ul>
- </form>End of code snippet
+ </form>
  
